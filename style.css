@@ -60,3 +60,12 @@ footer {
     padding: 4rem 0;
     clear: both;
 }
+
+.top-ten h3 {
+    font-size: 2rem;
+}
+
+ol li {
+    margin-bottom: .5rem;
+    font-size: 1.25rem;
+}
