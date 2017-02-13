@@ -65,7 +65,10 @@ footer {
     font-size: 2rem;
 }
 
-ol li {
+li {
     margin-bottom: .5rem;
+}
+
+ol li {
     font-size: 1.25rem;
 }
